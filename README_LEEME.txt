@@ -21,7 +21,8 @@ function of the length of the amino acid chain and the amino acid that is curren
 processed at the time of rhythm change.
 
 those of type2D: add to the format of type1 a percussion that depends on the type of
-secondary structure formed by the processed amino acids, according to software STRIDE, a program with prediction criteria of secondary structure, extracted from the 3D data of PDB files
+secondary structure formed by the processed amino acids, according to software STRIDE, 
+a program with prediction criteria of secondary structure, extracted from the 3D data of PDB files
 (Protein Data Bank) . My sincere thanks, and credits due, for authors for 
 giving disinterested access to their data.
 
@@ -88,7 +89,8 @@ de la longitud de la cadena de aminoácidos y el aminoácido que se está proces
 del cambio de ritmo.
  
 los de tipo2D: añaden al formato del tipo1 una percusión que está en función del tipo de 
-estructura secundaria que forman los aminoácidos procesados, según el programa STRIDE, un software de predicción de estructura secundaria extraidos a partir de los datos 3D de ficheros PDB 
+estructura secundaria que forman los aminoácidos procesados, según el programa STRIDE, un software 
+de predicción de estructura secundaria extraidos a partir de los datos 3D de ficheros PDB 
 (Protein Data Bank). Mi agradecimiento más sincero, y los créditos debidos, para sus
 autores por dar acceso desinteresado a sus datos.
 
