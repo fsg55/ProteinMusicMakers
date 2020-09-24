@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 LEEME.txt
 
-Estos programas son una simple musicalización sonorización de las secuencias de aminoácidos 
+Estos programas son una simple musicalización-sonorización de las secuencias de aminoácidos 
 que componen las proteinas
 
 Estos archivos .zip, contienen los ejecutables ".EXE", ".JAR", y los elementos necesarios para 
