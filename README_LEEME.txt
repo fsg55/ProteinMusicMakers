@@ -14,7 +14,7 @@ any sequence of amino acids that you type in.
 I have made three types of ProteinMusic executables:
 
 type 1: they translate the amino acid (AA) sequence of a protein into music, depending 
-on the type amino acid, based on a set of "samples" in .wav format, single channel, PCM 16beat signed.
+on the type amino acid, based on a set of "samples" in .wav format, single channel, PCM 16bit signed.
 
 those of type2: they add a rhythm of percussion instruments to the previous one, which is a
 function of the length of the amino acid chain and the amino acid that is currently being 
@@ -82,7 +82,7 @@ o simplemente cualquier secuencia de aminoácidos que ustedes introduzcan.
 He realizado tres tipos de ejecutables ProteinMusic:
 
 los de tipo1: traducen la secuencia de aminoácidos (AA) de una proteina a música, según el tipo 
-de aminoácido, basada en un set de "samples" en formato .wav, monocanal, PCM 16 beats con signo.
+de aminoácido, basada en un set de "samples" en formato .wav, monocanal, PCM 16 bit con signo.
 
 los de tipo2: añaden un ritmo de instrumentos de percusión al anterior, que está en función
 de la longitud de la cadena de aminoácidos y el aminoácido que se está procesando en el momento 
