@@ -8,8 +8,8 @@ Credits: my most sincere thanks to ALL those who put their work and their
 knowledge free on Internet, without which I could not have developed anything;
 Specials thank's to A. Brown (jmusic API), A. Troedson (score structuring
 in java applications), yknk (MidiTrail), several current and past composers (for their 
-Musical Dice Games scores), and a very, very, very long etc for hundreds of people
-that have helped me or inspired me in the development of this project as far as it is today.
+Musical Dice Games scores), the ffmpeg team, and a very, very, very long etc for hundreds of 
+people that have helped me or inspired me in the development of this project as far as it is today.
 A practical example: this translation is done with the google translator.
 
 The quest continues ...
@@ -25,8 +25,9 @@ intrínseco de cada proteina humana(Terminado hoy 01/07/2020).
 Creditos: mi más sincero agradecimiento para TODOS aquellos que ponen su trabajo y sus
 conocimientos gratis en Internet, sin los cuales no habría podido desarrollar nada de lo que
 aqui voy subiendo, en especial a A.Brown (jmusic API), Troedson (estructuracion de partituras
-en aplicaciones java), yknk (MidiTrail), y varios compositores actuales y pasados (partituras
-de sus Juegos de Dados Musicales), y un etc muy, muy, muy largo para cientos de personas
-que me han ayudado o inspirado en el desarrollo de este proyecto hasta donde está hoy dia.
+en aplicaciones java), yknk (MidiTrail), varios compositores actuales y pasados (partituras
+de sus Juegos de Dados Musicales), al equipo de desarrollo del programa ffmpeg y un etc muy, 
+muy, muy largo para cientos de personas que me han ayudado o inspirado en el desarrollo de este 
+proyecto hasta donde está hoy dia.
 
 La búsqueda continua...
