@@ -1,8 +1,8 @@
 
 This is a project under development, consisting of multiple programs (files.jar and files.exe)
 that are being developed in the search for music contained in nucleic acids and proteins,
-although so far I have only musicalized nucleic acids, and revealed the rhythm
-intrinsic of each human model protein(this finished today 01/June/2020).
+although so far I have musicalized nucleic acids and proteins, and revealed the rhythm
+intrinsic of each human model protein(this finished on June/01/2020).
 
 Credits: my most sincere thanks to ALL those who put their work and their
 knowledge free on Internet, without which I could not have developed anything;
@@ -19,8 +19,8 @@ Español:
 
 Este es un proyecto en desarrollo, compuesto por multiples programas (archivos.jar y archivos.exe) 
 que estan siendo desarrollados en la busqueda de la musica contenida en acidos nucleicos y proteinas,
-aunque hasta el momento sólo he musicalizado acidos nucleicos, y puesto de manifiesto el ritmo
-intrínseco de cada proteina humana(Terminado hoy 01/07/2020).
+hasta el momento he musicalizado acidos nucleicos y proteínas, y puesto de manifiesto el ritmo
+intrínseco de cada proteina humana(esto último finalizado el 01/Junio/2020).
 
 Creditos: mi más sincero agradecimiento para TODOS aquellos que ponen su trabajo y sus
 conocimientos gratis en Internet, sin los cuales no habría podido desarrollar nada de lo que
