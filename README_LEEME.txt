@@ -26,6 +26,10 @@ a program with prediction criteria of secondary structure, extracted from the 3D
 (Protein Data Bank) . My sincere thanks, and credits due, for authors for 
 giving disinterested access to their data.
 
+The remaining types are variations on the strategy of converting the amino acid sequence into music, 
+taking into account various properties of the amino acids, different musical styles, and diverse 
+methods of generating music based on the AAs sequence, its properties, or its role in 2D structures.
+
 For programs to work they must also have all the components that are provided
 in these ".zip" files, since without all of them they will not work.
 
@@ -94,6 +98,11 @@ estructura secundaria que forman los aminoácidos procesados, según el programa
 de predicción de estructura secundaria extraidos a partir de los datos 3D de ficheros PDB 
 (Protein Data Bank). Mi agradecimiento más sincero, y los créditos debidos, para sus
 autores por dar acceso desinteresado a sus datos.
+
+El resto de tipos son variaciones sobre la estrategia de convertir la secuencia aminoacídica en
+música, atendiendo a diversas propiedades de los aminoácidos, diversos estilos musicales y
+formas de crear musica a partir de la secuencia de aminoacidos, sus propiedades o su participación
+en estructuras 2D.
 
 Para que los programas funcionen también deben de tener todos los componentes que se proporcionan
 en los archivos .zip, ya que sin todos ellos no funcionarán.
